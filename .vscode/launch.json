@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Assignment2",
+            "request": "launch",
+            "mainClass": "com.mycompany.Assignment2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Assignment1",
+            "request": "launch",
+            "mainClass": "com.mycompany.Assignment1",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "mycompany",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.mycompany",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Assignment1",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Assignment1",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Number",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Number",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
